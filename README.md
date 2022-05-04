@@ -1,2 +1,2 @@
 # Exo-CC1
-exercice du cc
+exercice du cc fait en salle
